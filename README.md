@@ -5,3 +5,4 @@
 # week 3 assignment 1:https://github.com/saathvikkodipaka/AIML2024/blob/main/2203A51489%20w-3%20A-1.ipynb
 # ML_ASSIGNMENT:https://github.com/saathvikkodipaka/AIML2024/blob/main/2203A51489_ML_assign_.ipynb
 # ML_ASSIGNMENT-2:https://github.com/saathvikkodipaka/AIML2024/blob/main/2203A51489_ML_assign_2.ipynb
+# ML_ASSIGNMENT-3:
